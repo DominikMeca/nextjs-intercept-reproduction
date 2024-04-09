@@ -1,3 +1,3 @@
-export default function C() {
-  return <>Page C</>;
+export default function TargetPage() {
+  return <>Target Page</>;
 }
